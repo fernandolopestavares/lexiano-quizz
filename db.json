@@ -1,16 +1,16 @@
 {
-    "bg": "https://hqrock.files.wordpress.com/2020/05/lex-luthor-david-finch.jpg",
-    "title": "Quiz Lexiano #AluraQuiz",
-    "description": "Um quiz rápido sobre o mundo do Lexiano",
+    "bg": "https://www.hitalent.co/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1452099b706ad7d079f7a3a4dd5d702ebeeae45f/HiTalent.png",
+    "title": "Quiz JavaScript #AluraQuiz",
+    "description": "Um quiz rápido sobre o mundo do JavaScript",
     "questions": [
       {
         "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-        "title": "LexLuthor era cabeludo?",
+        "title": "Qual a diferença entre = , == e === ?",
         "description": "Pergunta fácil em!",
         "answer": 1,
         "alternatives": [
-          "Sim",
-          "Não"
+          "São a mesma coisa",
+          "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
         ]
       },
       {
@@ -44,7 +44,8 @@
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
