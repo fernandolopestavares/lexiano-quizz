@@ -5,12 +5,12 @@
     "questions": [
       {
         "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-        "title": "Qual a diferença entre = , == e === ?",
+        "title": "LexLuthor era cabeludo?",
         "description": "Pergunta fácil em!",
         "answer": 1,
         "alternatives": [
-          "São a mesma coisa",
-          "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+          "Sim",
+          "Não"
         ]
       },
       {
